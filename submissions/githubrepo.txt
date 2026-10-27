@@ -1,0 +1,33 @@
+cURL Command:
+curl -s https://api.github.com/repos/aryanketkar-15/expressBookReviews
+
+Output:
+{
+  "id": 1434863800,
+  "node_id": "R_kgDOVYZIuA",
+  "name": "expressBookReviews",
+  "full_name": "aryanketkar-15/expressBookReviews",
+  "private": false,
+  "owner": {
+    "login": "aryanketkar-15",
+    "html_url": "https://github.com/aryanketkar-15"
+  },
+  "html_url": "https://github.com/aryanketkar-15/expressBookReviews",
+  "description": "nodejsFinalModule",
+  "fork": true,
+  "url": "https://api.github.com/repos/aryanketkar-15/expressBookReviews",
+  "parent": {
+    "id": 528392102,
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "private": false,
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "source": {
+    "id": 528392102,
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "default_branch": "main"
+}
